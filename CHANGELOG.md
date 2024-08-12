@@ -1,5 +1,17 @@
 # Changelog
 
+## [20.1.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v20.0.0...v20.1.0) (2024-08-12)
+
+
+### Features
+
+* **add:** E8 ([e56b539](https://github.com/Koenkk/zigbee-herdsman-converters/commit/e56b539e718859d1eab3a60985f86c4e93973b54))
+
+
+### Bug Fixes
+
+* Fix `illuminance` value incorect for Tuya ZG-205Z/A https://github.com/Koenkk/zigbee2mqtt/issues/23496 ([7929df0](https://github.com/Koenkk/zigbee-herdsman-converters/commit/7929df08f49c66603828dbff222b41fe8ed72369))
+
 ## [20.0.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v19.75.0...v20.0.0) (2024-08-12)
 
 
